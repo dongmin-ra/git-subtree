@@ -34,7 +34,7 @@ inputs:
   squash:
     description: "Squash the merge"
     required: false
-    default: "true"
+    default: "false"
   message:
     description: "Message"
     required: false
